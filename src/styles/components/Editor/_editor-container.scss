@@ -1,0 +1,15 @@
+
+#editor-container {
+  height: 100%;
+  width: 60%;
+  overflow: auto;
+  box-shadow: 0 12px 12px black;
+  background: var(--paper-background);
+}
+
+@media (max-width: 780px) {
+
+  #editor-container {
+    width: 100%;
+  }
+}

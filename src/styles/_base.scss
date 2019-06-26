@@ -1,0 +1,39 @@
+
+// colors
+:root {
+  --primary: rgb(220, 7, 7);
+  --paper-background: url(../images/handmadepaper.png);
+}
+
+// spacing
+$xs: 0.8rem;
+$s: 1.2rem;
+$m: 1.6rem;
+$l: 3.2rem;
+$xl: 4.8rem;
+
+html {
+  color: rgb(36, 35, 34);
+  font-family: 'Special Elite', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: $m;
+}
+
+h1, h2 {
+  margin-top: 0 !important;
+  margin-bottom: $xs !important;
+}
+
+// gives all headings the theme's heading color
+h1, h2, h3, h4, h5, h6 {
+  color: var(--primary);
+}
+
+// hiding scrollbars
+::-webkit-scrollbar { 
+  display: none !important; 
+}
+
+// hiding all the blue focus borders
+* :focus {
+  outline: 0;
+}
