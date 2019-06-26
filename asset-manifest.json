@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/typewriter/static/css/main.6f8962b1.chunk.css",
-    "main.js": "/typewriter/static/js/main.667c474d.chunk.js",
-    "main.js.map": "/typewriter/static/js/main.667c474d.chunk.js.map",
+    "main.js": "/typewriter/static/js/main.d11345b6.chunk.js",
+    "main.js.map": "/typewriter/static/js/main.d11345b6.chunk.js.map",
     "runtime~main.js": "/typewriter/static/js/runtime~main.1f9e0057.js",
     "runtime~main.js.map": "/typewriter/static/js/runtime~main.1f9e0057.js.map",
     "static/css/2.1cbcbd45.chunk.css": "/typewriter/static/css/2.1cbcbd45.chunk.css",
-    "static/js/2.866b3a54.chunk.js": "/typewriter/static/js/2.866b3a54.chunk.js",
-    "static/js/2.866b3a54.chunk.js.map": "/typewriter/static/js/2.866b3a54.chunk.js.map",
+    "static/js/2.93ee224d.chunk.js": "/typewriter/static/js/2.93ee224d.chunk.js",
+    "static/js/2.93ee224d.chunk.js.map": "/typewriter/static/js/2.93ee224d.chunk.js.map",
     "index.html": "/typewriter/index.html",
-    "precache-manifest.1d325f7a09107b74f5e1a9f37e263e18.js": "/typewriter/precache-manifest.1d325f7a09107b74f5e1a9f37e263e18.js",
+    "precache-manifest.fdd9f54f921adbe6c80080c7e8799992.js": "/typewriter/precache-manifest.fdd9f54f921adbe6c80080c7e8799992.js",
     "service-worker.js": "/typewriter/service-worker.js",
     "static/css/2.1cbcbd45.chunk.css.map": "/typewriter/static/css/2.1cbcbd45.chunk.css.map",
     "static/css/main.6f8962b1.chunk.css.map": "/typewriter/static/css/main.6f8962b1.chunk.css.map",
+    "static/media/multimedia_button_click_023.mp3": "/typewriter/static/media/multimedia_button_click_023.f1f653e9.mp3",
     "static/media/styles.scss": "/typewriter/static/media/vintage-typewriter.0a397e69.jpg"
   }
 }
